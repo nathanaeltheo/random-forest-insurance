@@ -5,5 +5,7 @@ An impementation of random forest classifier to predict health insurance cross s
 
 **Contributors**
 Nathanael Theovanny Averro, Sergio Fadjar, Kevin Halim
+(Actuarial Science Universitas Indonesia)
 
-Actuarial Science Universitas Indonesia
+**Data**
+https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction
